@@ -1,0 +1,23 @@
+1
+00:00:00,087 --> 00:00:05,817
+Why doesn't Cursor remember yesterday's chat?
+
+2
+00:00:05,817 --> 00:00:11,923
+Cursor forgets long chats. I don't rely on the thread alone.
+
+3
+00:00:11,923 --> 00:00:24,693
+I save decisions in this Project's Context — short rules in preferences, longer notes under docs.
+
+4
+00:00:24,693 --> 00:00:35,804
+Next time I say "continue from Context," the agent picks up our role, language, and don'ts.
+
+5
+00:00:35,804 --> 00:00:42,664
+One habit today: when you decide something, write one line in Context.
+
+6
+00:00:42,664 --> 00:00:48,765
+Subscribe for Episode 2 — handing work to a Cloud Agent.
