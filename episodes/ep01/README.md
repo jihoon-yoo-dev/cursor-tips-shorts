@@ -2,8 +2,9 @@
 
 **시리즈:** Cursor 활용법 (플레이리스트) · DIY Founder  
 **Episode:** 1 (Day 표기 금지)  
-**상태:** **최종 Short 재믹스 완료** (업로드 가능) · InJoon **−5%** (~48.8s) — −15%보다 약간 빠르게  
-**근거:** `docs/cursor-usage-diagnosis.md` Strong #1 · `docs/cursor-ko-shorts-series.md`
+**상태:** **최종 Short 재믹스 완료** · YouTube 업로드됨 · 문서 아카이브 GitHub  
+**근거:** `docs/cursor-usage-diagnosis.md` Strong #1 · `docs/cursor-ko-shorts-series.md`  
+**GitHub:** https://github.com/jihoon-yoo-dev/cursor-tips-shorts/tree/main/episodes/ep01
 
 ### 최종 업로드 파일
 

@@ -2,7 +2,8 @@
 
 **잠금일:** 2026-11-09  
 **Project:** Jihoon  
-**관련:** `preferences.md` (Cursor 한글 Shorts 시리즈) · `docs/cursor-usage-diagnosis.md` · `docs/episode-01-cursor-ko-short-package.md`
+**관련:** `preferences.md` (Cursor 한글 Shorts 시리즈) · `docs/cursor-usage-diagnosis.md` · `docs/episode-01-cursor-ko-short-package.md`  
+**GitHub (문서 아카이브):** https://github.com/jihoon-yoo-dev/cursor-tips-shorts — public · Ep 폴더는 `episodes/epNN/` · **미디어(mp4/mp3)는 올리지 않음** (YouTube/로컬). Ep2+ 패키지·캡션·시드도 여기 push.
 
 ---
 
